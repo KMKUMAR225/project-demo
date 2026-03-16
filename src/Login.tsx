@@ -44,6 +44,10 @@ function Login() {
             Log in
           </Button>
         </Form.Item>
+
+        <Form.Item>
+          <a href="#" style={{ float: 'right' }}>Forgot password?</a>
+        </Form.Item>
       </Form>
     </div>
   );
